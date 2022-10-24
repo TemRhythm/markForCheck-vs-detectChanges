@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+button {
+  background-color: wheat;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+}
+button:active {
+  background-color: burlywood;
+}
